@@ -1,0 +1,14 @@
+[
+  { "id": "img-01", "name": "Modern Developer Workspace", "category": "Workspace", "date": "2026-01-06", "url": "/images/img-01.jpg" },
+  { "id": "img-02", "name": "Creative Office Setup", "category": "Workspace", "date": "2025-12-15", "url": "/images/img-02.jpg" },
+  { "id": "img-03", "name": "Night City Coding View", "category": "City", "date": "2025-11-09", "url": "/images/img-03.jpg" },
+  { "id": "img-04", "name": "Urban Innovation District", "category": "City", "date": "2025-10-22", "url": "/images/img-04.jpg" },
+  { "id": "img-05", "name": "Minimal Desk Environment", "category": "Interior", "date": "2025-09-04", "url": "/images/img-05.jpg" },
+  { "id": "img-06", "name": "Collaborative Team Space", "category": "Interior", "date": "2025-08-29", "url": "/images/img-06.jpg" },
+  { "id": "img-07", "name": "Remote Work Travel Scene", "category": "Travel", "date": "2025-07-11", "url": "/images/img-07.jpg" },
+  { "id": "img-08", "name": "Coastal Productivity Spot", "category": "Travel", "date": "2025-06-02", "url": "/images/img-08.jpg" },
+  { "id": "img-09", "name": "Focused Morning Workflow", "category": "Lifestyle", "date": "2025-05-19", "url": "/images/img-09.jpg" },
+  { "id": "img-10", "name": "Smart Office Architecture", "category": "City", "date": "2025-04-17", "url": "/images/img-10.jpg" },
+  { "id": "img-11", "name": "High Performance Workstation", "category": "Workspace", "date": "2025-03-13", "url": "/images/img-11.jpg" },
+  { "id": "img-12", "name": "Evening Creative Session", "category": "Lifestyle", "date": "2025-02-05", "url": "/images/img-12.jpg" }
+]
